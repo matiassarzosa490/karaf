@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: programaOne
+Bundle-SymbolicName: org.example.programOne1
+Bundle-Version: 1.0.0
+Bundle-ActivationPolicy: lazy
+Bundle-Activator: org.example.Activator
+Export-Package: org.example

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: programaTwo
+Bundle-SymbolicName: org.example2.programaTwo
+Bundle-Version: 1.0.0
+Bundle-ActivationPolicy: lazy
+Bundle-Activator: org.example2.Activator
+Import-Package: org.example2
